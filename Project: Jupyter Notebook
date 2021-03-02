@@ -1,0 +1,15 @@
+
+Project: Jupyter Notebook
+2. Running Code
+
+welcome_message = 'Hello, Jupyter!'
+first_cell = True
+
+if first_cell:
+    print(welcome_message)
+    
+    result = 1200 / 5
+second_cell = True
+
+if second_cell:
+    print(result)
